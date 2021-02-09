@@ -1,11 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "demo,
+      "boilerType": "NONE"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
